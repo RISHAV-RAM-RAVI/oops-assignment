@@ -1,6 +1,6 @@
 Object-Oriented Programming Assignment (C++)
 
-🧑‍🎓 Student Information
+Student Information
 Name: Rishav Ram Ravi
 Class Roll No: 43
 University Roll No: 24292191
