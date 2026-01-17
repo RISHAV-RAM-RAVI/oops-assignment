@@ -3,7 +3,7 @@
 Welcome to my **Object-Oriented Programming Using C++** assignment repository.
 This repository contains well-structured C++ programs demonstrating core **OOP concepts** as part of my **B.Tech CSE (Semester III)** coursework.
 
-## 👨‍🎓 Student Information
+## Student Information
 
 | Field                  | Details                                 |
 | ---------------------- | --------------------------------------- |
@@ -22,7 +22,7 @@ This repository contains well-structured C++ programs demonstrating core **OOP c
 
 This assignment focuses on understanding and implementing **Object-Oriented Programming principles** using **C++**.
 
-## 🔑 Concepts Covered
+## Concepts Covered
 
 * Classes and Objects
 * Constructors & Destructors
@@ -37,7 +37,7 @@ This assignment focuses on understanding and implementing **Object-Oriented Prog
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 * **Language:** C++
 * **Compiler:** GCC / Turbo C++ / Visual Studio Code
